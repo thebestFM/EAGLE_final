@@ -87,7 +87,7 @@ The optimal parameters are as follows:
 | **SuperUser** | 50   | 0.2                      | 0.5                     |
 | **WikiTalk**  | 100  | 0.5                      | 0.5                     |
 
-### 🔗 EAGLE-Time
+### EAGLE-Time
 
 To run EAGLE-Time, use the following command:
 
