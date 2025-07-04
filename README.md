@@ -65,7 +65,7 @@ For further details, please consult the [TGB documentation](https://docs.tgb.com
 
 ### 🔗 Link Prediction
 
-### 🔗 EAGLE-Structure
+### EAGLE-Structure
 
 To run EAGLE-Structure, use the following command:
 
@@ -109,7 +109,7 @@ The optimal parameters are as follows:
 | superuser   | 30                                   | 0.0001             | 0.0               |
 | wikitalk    | 30                                   | 0.001              | 0.0               |
 
-### 🔗 EAGLE-Hybrid
+### EAGLE-Hybrid
 
 To run EAGLE-Hybrid, use the following command:
 
